@@ -1,0 +1,11 @@
+För denna utmaning ska ni skapa en applikation som tar in ett tal och multiplicerar
+talet 10 gånger som med en multiplikationstabell. Användaren ska mötas av text
+som beskriver vad applikationen heter samt simpla instruktioner. Därefter ska
+användaren mata in ett valfritt heltal som sedan ska multipliceras och skrivas ut
+till konsollen.
+
+Tips: Här är det bra med en loop!
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)

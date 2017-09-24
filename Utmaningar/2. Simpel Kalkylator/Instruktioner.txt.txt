@@ -1,0 +1,12 @@
+För denna utmaning ska ni skapa en simpel kalkylator som kan räkna ut addition, subtraktion och multiplikation.
+Användaren ska mötas av en beskrivande text och tre val. Därefter ska användaren få göra ett val och sedan mata
+in två tal. När användaren gjort detta ska svaret skrivas ut och visas för användaren. Skriver användaren in
+ett ogiltigt val eller värde så ska programmet börja om från menyn och därefter be användaren om ett nytt
+menyval. Programmet får INTE krascha.
+
+Tips: Här är det bra om ni inkluderar felhantering samt delar upp de olika funktionerna
+i olika metoder!
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
