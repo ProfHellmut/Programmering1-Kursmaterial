@@ -1,0 +1,14 @@
+För denna utmaning ska användaren mötas av en beskrivning att användaren ska mata in ett tal.
+Talet som matats in ska sedan loopas och skrivas ut lika många gånger och varje rad tills slut ska ha 1 extra tal bredvid sig.
+Exempel om man skriver in en 4:
+4
+44
+444
+4444
+
+
+Tips: For-loop!
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)

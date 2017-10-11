@@ -1,0 +1,10 @@
+För denna utmaning ska ni skapa ett program där användaren får två val, konvertera en mening
+till bara stora bokstäver och det andra valet är för att konvertera till bara små bokstäver.
+Därefter skriver användaren in en mening som ska konverteras och där spelar ingen roll hur
+användaren har matat in meningen.
+
+Tips: Det finns två metoder specifika för strängar som uppnår detta.
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
