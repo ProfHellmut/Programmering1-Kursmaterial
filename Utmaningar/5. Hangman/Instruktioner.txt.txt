@@ -1,0 +1,14 @@
+För denna utmaning ska ni skapa logiken för spelet Hangman. Programmet ska slumpa fram ett
+ord från en array ni fyllt med några gissningsord, därefter ska ordet visas som understreck för användaren.
+Användaren ska mata in en bokstav, om denna bokstav finns i ordet så ska understrecket på den platsen bytas
+ut mot bokstaven som var korrekt. Är bokstaven fel ska en chans dras av och spelet fortsätter. Spelet avslutas
+när spelaren har vunnit(korrekt ord är gissat och användarens chanser inte är 0) eller förlorat(användaren gissade
+fel 5 gånger).
+
+Tips: 	Kolla upp Random objektet för C#.
+	Dela upp i metoder.
+	Använd loopar.
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
