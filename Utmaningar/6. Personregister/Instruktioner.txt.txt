@@ -1,0 +1,22 @@
+I denna utmaning ska ni skapa ett personregister med hjälp av listor, klasser och objekt.
+Användaren ska mötas av en meny med 5 olika val: Se personer i listan, lägga till personer,
+kunna skriva ett namn som existerar i listan för att få mer information, skriva "meny" för
+att få upp menyn igen, trycka 0 för att avsluta program.
+
+För att få godkänt på denna utmaning ska ni använda er av Lists och använda er av tre klasser.
+Person.cs ska innehålla information om en persons namn, ålder och stad(som tas in i konstruktorn)
+samt en metod som returnerar en sträng med info.
+
+PersonRegister.cs ska innehålla metoder för att returnera strängar(till Logik.cs) för personer som 
+finns i listan, information om en specifik person och användaren ska kunna lägga till en person
+i en lista med krav på namn, ålder och stad.
+
+Logik.cs ska innehålla all logik för hanterandet av användarval. Här ska du skriva ut all info
+till vår konsol samt ta in all input som användaren ger och utföra operationer baserat på dessa.
+
+Tips: 	C# List methods
+	Klasser och objekt
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
