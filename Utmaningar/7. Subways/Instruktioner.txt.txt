@@ -1,0 +1,18 @@
+För denna utmaning ska ni simulera en tunnelbanestation. Användaren börjar på Subwaystation "One"
+och får ett val om att hoppa på nästa tåg eller lämna stationen. Väljer man att lämna så slutar
+programmet, väljer man att fortsätta så åker man vidare till Subwaystation "Two". I denna station
+får man tre val: Åka tåg till Subwaystation "One", åka till Subwaystation "Three" eller lämna stationen.
+Väljer man att åka till "One" är man tillbaka där man först började, väljer man "Three" åker man vidare.
+Lämnar man slutar programmet. Hamnar man på Subwaystation "Three" får man valet att hoppa på tåget tillbaka
+till "Two" och om man vill lämna. Åker man tillbaka får man samma val som tidigare. Lämnar man slutar programmet.
+
+Varje Subwaystation är en egen klass med metoder. Beroende på valet användaren gör skapas ett objekt av en
+annan Subwaystation och man hamnar där och kör den klassens metoder. Om användaren skriver ett felaktigt input
+så ska användaren meddelas om detta och input ska tas om.
+
+Kolla på resultat.png hur det färdiga programmet fungerar.
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog2-Utmaningar och därefter en mapp med utmaningens namn.
+Koden bör vara kommenterad.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
