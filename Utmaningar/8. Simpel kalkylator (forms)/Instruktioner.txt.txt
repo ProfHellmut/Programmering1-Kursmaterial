@@ -1,0 +1,8 @@
+I forms ska ni skapa en simpel kalkylator. Kalkylatorn ska kunna addera, subtrahera, dividera och multiplicera.
+Hur ni designar är upp till er, ni måste inkludera felhantering då applikationen inte får krascha!
+
+Tips: Ni måste hämta värdet från textboxens getter, och sätta värdet i dess setter.
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
