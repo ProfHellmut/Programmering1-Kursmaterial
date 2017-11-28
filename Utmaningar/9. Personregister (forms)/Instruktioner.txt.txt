@@ -1,0 +1,17 @@
+Ni ska skapa ett personregister med hjälp av forms. Här ska man kunna lägga till och ta bort personer i registret.
+Ni bör ha textfält för Namn, ålder och stad. Två knappar för lägg till och ta bort. Personerna ska visas i en listbox,
+denna listbox måste uppdateras för varje ändring.
+
+När man väljer att ta bort en person ska man inte skriva in namn, ålder och stad utan man ska istället markera en
+person i listan och sedan kunna ta bort.
+
+Ni bör ha minst 2 klasser utöver de som skapas vid projektstart. Dessa ska vara en Person-klass som är en mall
+för personer, därefter bör ni ha en logikklass som styr tillägg och borttagning av personer.
+
+Tips: 	C# List methods
+	Klasser och objekt
+	control.SelectedIndex
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
