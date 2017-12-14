@@ -1,0 +1,12 @@
+Du ska skapa en Recipe Manager med hjälp av forms. Syftet med applikationen är att låta användaren skapa,
+ta bort samt titta på recept. Denna applikation använder sig av 3 forms: RecipeManager(form1), AddRecipe och ShowRecipe.
+RecipeManager ska ge användaren tillgång till att lägga till recept, ta bort/visa recept från en lista.
+AddRecipe ansvarar för att ta in användarinput för recept(namn, ingredientser och instruktioner).
+ShowRecipe ansvarar för att visa ett recept. Här kan användaren bara stänga ner fönstret.
+
+Denna applikation måste byggas enligt objektorienterade principler.
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog1-Utmaningar och därefter en mapp med utmaningens namn.
+Koden bör vara kommenterad.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
